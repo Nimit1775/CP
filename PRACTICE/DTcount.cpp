@@ -15,13 +15,13 @@ int main() {
         string current_x = x;
         int operations = 0 ;
 
-        // Keep concatenating until current_x is at least as long as s
+
         while (current_x.length() < m) {
             current_x += x;
             operations++;
         }
 
-        // Check if s is already a substring of current_x
+
         if (current_x.find(s) != string::npos) {
             cout << operations << endl;
         } else {
