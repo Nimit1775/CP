@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using  namespace std  ;
-solve()
+void solve()
 {
 	int n  ,  k;
 	cin >> n >> k ;
