@@ -3,7 +3,7 @@ using namespace std ;
 
 void solve ()
 {
-
+	// will do it tommorow  , too tired today  !
 }
 int main  ()
 {
