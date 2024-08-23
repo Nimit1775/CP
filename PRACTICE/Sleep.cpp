@@ -3,7 +3,7 @@ using namespace std ;
 
 void solve ()
 {
-	cout << " kal karenge bhai yaya" ;
+	cout << " kal karenge bhai " ;
 
 }
 int main  ()
