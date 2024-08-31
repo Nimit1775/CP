@@ -17,5 +17,7 @@ void solve ( )
 int main ()
 {
 	solve()  ;
+	// i hate cp , but i love tourist
+
 	return 0  ;
 }
