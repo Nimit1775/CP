@@ -8,7 +8,7 @@ void solve() {
     vector<string> X;
     int n = S.length();
 
-    for (int i = 0; i < n; ++i) {
+    for (int i = 0; i < n; ++i) {////////
         if (S[i] != T[i]) {
             S[i] = T[i];
             X.push_back(S);
